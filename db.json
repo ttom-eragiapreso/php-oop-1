@@ -1,0 +1,14 @@
+[
+    {
+        "isInCinema": false,
+        "title": "Toy Story",
+        "year": 2012,
+        "length": 120
+    },
+    {
+        "isInCinema": false,
+        "title": "Pulp Fiction",
+        "year": 1987,
+        "length": 200
+    }
+]
